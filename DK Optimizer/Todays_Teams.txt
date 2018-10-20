@@ -1,0 +1,21 @@
+Today's Teams:
+
+Braden Holtby, Kris Letang, Shea Weber, Oliver Ekman-Larsson, Nick Foligno, Patrick Sharp, Scott Hartnell, Joe Pavelski, Bryan Lerg, 
+
+Braden Holtby, Kris Letang, Shea Weber, Keith Yandle, Nick Foligno, Patrick Sharp, Scott Hartnell, Joe Pavelski, Bryan Lerg, 
+
+Braden Holtby, Kris Letang, Drew Doughty, Oliver Ekman-Larsson, Rick Nash, Nick Foligno, Scott Hartnell, Kyle Turris, Bryan Lerg, 
+
+Braden Holtby, Kris Letang, Shea Weber, Oliver Ekman-Larsson, Rick Nash, Patrick Sharp, Scott Hartnell, Kyle Turris, Bryan Lerg, 
+
+Braden Holtby, Roman Josi, Kris Letang, Shea Weber, Nick Foligno, Patrick Sharp, Scott Hartnell, Kyle Turris, Bryan Lerg, 
+
+
+Valid Teams: 616
+ Total Players: 28
+---------------------------------------------------------------------------------------------------------------------------------
+Player Pool
+Centers: ['Tyler Seguin: 4.845', 'Sidney Crosby: 4.273', 'Ryan Getzlaf: 4.0', 'Evgeni Malkin: 4.101', 'Joe Pavelski: 4.25', 'Ryan Johansen: 3.482', 'Filip Forsberg: 3.47', 'Kyle Turris: 3.409', 'Bryan Lerg: 3.5']
+Wingers: ['Alex Ovechkin: 5.29', 'Zach Parise: 4.25', 'Jamie Benn: 4.396', 'Rick Nash: 4.411', 'Daniel Sedin: 3.573', 'James Neal: 3.328', 'Nick Foligno: 3.722', 'Patrick Sharp: 3.301', 'Scott Hartnell: 3.494']
+Defence: ['Erik Karlsson: 4.189', 'John Carlson: 3.884', 'Roman Josi: 4.074', 'Brent Burns: 3.921', 'Kris Letang: 4.0', 'Shea Weber: 3.808', 'Drew Doughty: 3.421', 'Keith Yandle: 3.292', 'Oliver Ekman-Larsson: 3.409']
+Minutes: 9.8124676158334

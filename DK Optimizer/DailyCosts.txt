@@ -1,0 +1,681 @@
+RW
+Patrick Kane
+8800
+G
+Brian Elliott
+8500
+G
+Ben Bishop
+8400
+G
+Roberto Luongo
+8300
+G
+Thomas Greiss
+8100
+G
+Corey Crawford
+8000
+G
+Pekka Rinne
+8000
+G
+Frederik Andersen
+7900
+G
+Andrei Vasilevskiy
+7900
+G
+Jaroslav Halak
+7800
+G
+Jimmy Howard
+7800
+G
+John Gibson
+7800
+G
+Scott Darling
+7800
+RW
+Vladimir Tarasenko
+7700
+G
+Petr Mrazek
+7700
+G
+Jake Allen
+7600
+C
+John Tavares
+7600
+G
+Carter Hutton
+7500
+C
+Steven Stamkos
+7300
+G
+Al Montoya
+7200
+D
+Roman Josi
+7200
+G
+Jean-Francois Berube
+7100
+RW
+Nikita Kucherov
+7100
+RW
+James Neal
+6900
+D
+Kevin Shattenkirk
+6900
+G
+Anders Nilsson
+6900
+LW
+Filip Forsberg
+6900
+C
+Aleksander Barkov
+6900
+D
+Shea Weber
+6800
+G
+Christopher Gibson
+6700
+RW
+Corey Perry
+6600
+LW
+Artemi Panarin
+6600
+C
+Ryan Getzlaf
+6500
+G
+Kristers Gudlevskis
+6500
+C
+Pavel Datsyuk
+6400
+RW
+Kyle Okposo
+6300
+G
+Anton Khudobin
+6300
+D
+Victor Hedman
+6200
+RW
+Jaromir Jagr
+6100
+D
+Brent Seabrook
+6100
+C
+Jonathan Toews
+6100
+G
+Dustin Tokarski
+6100
+G
+Michael Leighton
+6000
+G
+Drew MacIntyre
+6000
+G
+Mike McKenna
+6000
+D
+Alex Pietrangelo
+6000
+LW
+Jonathan Huberdeau
+6000
+G
+Jordan Binnington
+6000
+G
+Jared Coreau
+6000
+G
+Juuse Saros
+6000
+G
+Pheonix Copley
+6000
+C
+Alexander Steen
+5900
+D
+Duncan Keith
+5900
+C
+Ryan Kesler
+5800
+RW
+Marian Hossa
+5600
+LW
+Jussi Jokinen
+5600
+C
+Ryan Johansen
+5600
+D
+Johnny Boychuk
+5500
+RW
+Henrik Zetterberg
+5500
+C
+Tyler Johnson
+5500
+LW
+Alex Killorn
+5500
+D
+Mike Green
+5400
+C
+Vincent Trocheck
+5400
+LW
+Ondrej Palat
+5400
+RW
+Dylan Larkin
+5400
+LW
+Frans Nielsen
+5300
+RW
+Jakob Silfverberg
+5300
+D
+Aaron Ekblad
+5300
+LW
+Andrew Ladd
+5200
+RW
+David Backes
+5200
+LW
+Jaden Schwartz
+5200
+LW
+Justin Abdelkader
+5100
+C
+Paul Stastny
+5000
+D
+Anton Stralman
+4900
+C
+Artem Anisimov
+4900
+RW
+Reilly Smith
+4900
+D
+Colton Parayko
+4900
+D
+Cam Fowler
+4800
+C
+Nick Bjugstad
+4800
+RW
+Craig Smith
+4800
+RW
+Tomas Tatar
+4700
+LW
+Gustav Nyquist
+4700
+D
+Sami Vatanen
+4700
+C
+Rickard Rakell
+4700
+LW
+David Perron
+4600
+D
+Nick Leddy
+4600
+RW
+Anders Lee
+4600
+RW
+Ryan Callahan
+4500
+LW
+Jamie McGinn
+4500
+D
+Travis Hamonic
+4500
+D
+Ryan Ellis
+4400
+RW
+Troy Brouwer
+4300
+LW
+Teddy Purcell
+4300
+D
+Mattias Ekholm
+4300
+D
+Hampus Lindholm
+4300
+RW
+Jiri Hudler
+4200
+D
+Calvin de Haan
+4200
+LW
+Brandon Pirri
+4200
+D
+Niklas Kronwall
+4100
+C
+Brock Nelson
+4100
+RW
+Andrew Shaw
+4100
+D
+Brian Campbell
+4000
+C
+Jori Lehtera
+4000
+LW
+Robby Fabbri
+4000
+LW
+Johan Franzen
+3900
+D
+Shea Theodore
+3900
+LW
+Patrik Berglund
+3800
+D
+Niklas Hjalmarsson
+3800
+C
+Ryan Strome
+3800
+C
+Teuvo Teravainen
+3800
+RW
+Jonathan Drouin
+3800
+C
+Mike Ribeiro
+3700
+C
+Mike Fisher
+3700
+D
+Jay Bouwmeester
+3700
+LW
+Calle Jarnkrok
+3700
+C
+Brad Richards
+3600
+D
+Kevin Bieksa
+3600
+D
+Dmitry Kulikov
+3600
+D
+Trevor van Riemsdyk
+3600
+D
+Kyle Quincey
+3500
+LW
+Andrew Cogliano
+3500
+C
+Vladislav Namestnikov
+3500
+RW
+Jonathan Marchessault
+3500
+RW
+Viktor Arvidsson
+3500
+RW
+Chris Stewart
+3400
+D
+Jason Garrison
+3400
+C
+Riley Sheahan
+3400
+RW
+Tomas Fleischmann
+3300
+C
+Valtteri Filppula
+3300
+LW
+Darren Helm
+3300
+D
+Thomas Hickey
+3300
+D
+Danny DeKeyser
+3300
+D
+Michal Rozsival
+3200
+RW
+Dale Weise
+3200
+D
+Christian Ehrhoff
+3100
+RW
+Josh Bailey
+3100
+RW
+Brian Boyle
+3000
+D
+Erik Gustafsson
+3000
+LW
+Andreas Athanasiou
+3000
+D
+Marek Zidlicky
+2900
+D
+Simon Despres
+2900
+LW
+Richard Panik
+2900
+C
+Casey Cizikas
+2900
+D
+Nikita Nesterov
+2900
+LW
+J.T. Brown
+2900
+C
+Nate Thompson
+2800
+C
+Mikhail Grabovski
+2800
+LW
+Nikolay Kulemin
+2800
+D
+Alex Petrovic
+2800
+D
+Viktor Svedberg
+2800
+RW
+Steve Bernier
+2700
+C
+Dave Bolland
+2700
+LW
+Colin Wilson
+2700
+D
+Robert Bortuzzo
+2700
+D
+Steven Kampfer
+2700
+RW
+Gabriel Bourque
+2700
+C
+Marcus Kruger
+2700
+LW
+Teemu Pulkkinen
+2700
+LW
+Ryan Garbutt
+2700
+C
+Rocco Grimaldi
+2700
+D
+Joel Edmundson
+2700
+LW
+Miikka Salomaki
+2700
+C
+Alan Quine
+2700
+D
+Josh Manson
+2700
+D
+Adam Pelech
+2700
+D
+Andrej Sustr
+2700
+C
+Olli Jokinen
+2600
+D
+Willie Mitchell
+2600
+C
+Shawn Horcoff
+2600
+LW
+Scottie Upshall
+2600
+D
+Braydon Coburn
+2600
+C
+Kyle Brodziak
+2600
+D
+Jakub Kindl
+2600
+D
+Brendan Smith
+2600
+LW
+Mike Santorelli
+2600
+LW
+Andrew Desjardins
+2600
+LW
+Erik Condra
+2600
+D
+Brian Strait
+2600
+LW
+Matt Martin
+2600
+D
+Erik Gudbranson
+2600
+LW
+Austin Watson
+2600
+C
+Greg McKegg
+2600
+RW
+Chris Wagner
+2600
+D
+Alexey Marchenko
+2600
+C
+Luke Glendening
+2600
+D
+Ryan Pulock
+2600
+LW
+Nick Ritchie
+2600
+LW
+Eric Boulton
+2500
+D
+Barret Jackman
+2500
+C
+Derek MacKenzie
+2500
+LW
+Eric Nystrom
+2500
+RW
+Shawn Thornton
+2500
+C
+Paul Gaustad
+2500
+D
+Matthew Carle
+2500
+D
+Clayton Stoner
+2500
+LW
+Drew Miller
+2500
+LW
+Mike Blunden
+2500
+D
+Jonathan Ericsson
+2500
+RW
+Cody Bass
+2500
+D
+Kyle Cumiskey
+2500
+RW
+Ryan Reaves
+2500
+RW
+Cal Clutterbuck
+2500
+LW
+Brandon Mashinter
+2500
+D
+Matt Taormina
+2500
+RW
+Joakim Andersson
+2500
+D
+Carl Gunnarsson
+2500
+RW
+Magnus Paajarvi
+2500
+D
+David Rundblad
+2500
+RW
+Jordan Caron
+2500
+D
+Korbinian Holzer
+2500
+LW
+Quinton Howden
+2500
+D
+Petter Granberg
+2500
+D
+Anthony Bitetto
+2500
+LW
+Garrett Wilson
+2500
+RW
+Stefan Noesen
+2500
+RW
+Tomas Jurco
+2500
+RW
+Dmitrij Jaskin
+2500
+LW
+Shane Prince
+2500
+RW
+Logan Shaw
+2500
+C
+Kyle Rau
+2500
+C
+Jeremy Welsh
+2500
+D
+Slater Koekkoek
+2500
+D
+Michael Matheson
+2500
+C
+Colton Sissons
+2500
+C
+Cedric Paquette
+2500
+D
+Petteri Lindbohm
+2500
+C
+Dennis Rasmussen
+2500

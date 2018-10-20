@@ -1,0 +1,65 @@
+Team 1
+G, Frederik Andersen    | Expected Points: 4.779
+D, P.K. Subban    | Expected Points: 3.392
+D, Andrei Markov    | Expected Points: 2.875
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Paul Byron    | Expected Points: 1.629
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $54800
+Expected Points: 29.618000000000002
+
+Team 2
+G, Frederik Andersen    | Expected Points: 4.779
+D, P.K. Subban    | Expected Points: 3.392
+D, Clayton Stoner    | Expected Points: 1.617
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Tomas Fleischmann    | Expected Points: 2.536
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $54600
+Expected Points: 29.267000000000003
+
+Team 3
+G, Frederik Andersen    | Expected Points: 4.779
+D, P.K. Subban    | Expected Points: 3.392
+D, Josh Manson    | Expected Points: 1.584
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Tomas Fleischmann    | Expected Points: 2.536
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $54600
+Expected Points: 29.234
+
+Team 4
+G, Frederik Andersen    | Expected Points: 4.779
+D, P.K. Subban    | Expected Points: 3.392
+D, Andrei Markov    | Expected Points: 2.875
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Chris Wagner    | Expected Points: 1.084
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $54400
+Expected Points: 29.073
+
+Team 5
+G, Frederik Andersen    | Expected Points: 4.779
+D, Andrei Markov    | Expected Points: 2.875
+D, Jeff Petry    | Expected Points: 1.897
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Tomas Fleischmann    | Expected Points: 2.536
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $55000
+Expected Points: 29.03
+

@@ -1,0 +1,73 @@
+***********************
+**** Tuesday Start ****
+***********************
+
+Mike Condon
+Marc-Andre Fleury
+Frederik Andersen
+
+
+Team 1
+G, Mike Condon    | Expected Points: 5.467
+D, Andrei Markov    | Expected Points: 2.875
+D, Darnell Nurse    | Expected Points: 2.297
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Taylor Hall    | Expected Points: 5.406
+LW, Max Pacioretty    | Expected Points: 3.933
+C, Leon Draisaitl    | Expected Points: 5.512
+C, Tomas Plekanec    | Expected Points: 3.709
+Total Cost: $54300
+Expected Points: 35.73
+
+Team 2
+G, Mike Condon    | Expected Points: 5.467
+D, P.K. Subban    | Expected Points: 3.392
+D, Andrei Markov    | Expected Points: 2.875
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Jordan Eberle    | Expected Points: 3.101
+LW, Taylor Hall    | Expected Points: 5.406
+LW, Matt Hendricks    | Expected Points: 2.589
+C, Leon Draisaitl    | Expected Points: 5.512
+C, Tomas Plekanec    | Expected Points: 3.709
+Total Cost: $54701
+Expected Points: 35.69
+
+Team 1
+G, Marc-Andre Fleury    | Expected Points: 4.716
+D, Darnell Nurse    | Expected Points: 2.297
+D, Sami Vatanen    | Expected Points: 2.24
+RW, Jordan Eberle    | Expected Points: 3.101
+RW, Phil Kessel    | Expected Points: 3.071
+LW, Taylor Hall    | Expected Points: 5.406
+LW, Matt Hendricks    | Expected Points: 2.589
+C, Leon Draisaitl    | Expected Points: 5.512
+C, Ryan Nugent-Hopkins    | Expected Points: 3.215
+Total Cost: $55000
+Expected Points: 32.14
+
+Team 2
+G, Marc-Andre Fleury    | Expected Points: 4.716
+D, Darnell Nurse    | Expected Points: 2.297
+D, Sami Vatanen    | Expected Points: 2.24
+RW, Phil Kessel    | Expected Points: 3.071
+RW, Nail Yakupov    | Expected Points: 2.798
+LW, Taylor Hall    | Expected Points: 5.406
+LW, Matt Hendricks    | Expected Points: 2.589
+C, Leon Draisaitl    | Expected Points: 5.512
+C, Ryan Nugent-Hopkins    | Expected Points: 3.215
+Total Cost: $53200
+Expected Points: 31.84
+
+Team 1
+G, Frederik Andersen    | Expected Points: 4.779
+D, P.K. Subban    | Expected Points: 3.392
+D, Andrei Markov    | Expected Points: 2.875
+RW, Brendan Gallagher    | Expected Points: 3.648
+RW, Dale Weise    | Expected Points: 2.884
+LW, Max Pacioretty    | Expected Points: 3.933
+LW, Paul Byron    | Expected Points: 1.629
+C, Tomas Plekanec    | Expected Points: 3.709
+C, David Desharnais    | Expected Points: 2.769
+Total Cost: $54800
+Expected Points: 29.61
